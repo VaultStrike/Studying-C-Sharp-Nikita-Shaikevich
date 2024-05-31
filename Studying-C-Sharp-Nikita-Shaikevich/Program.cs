@@ -3,6 +3,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        runObjects.DemoPcRun();
+        //runObjects.DemoPcRun();
+
+        ThisObjects.Demo();
+
     }
 }
