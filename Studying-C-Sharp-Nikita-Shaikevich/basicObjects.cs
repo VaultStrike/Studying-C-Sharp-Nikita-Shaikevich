@@ -57,6 +57,7 @@ namespace Studying_C_Sharp_Nikita_Shaikevich
             for(int i =0; i<parts.Length;i++)
             {
                 this.pcPrice+= parts[i].price;
+                this.readyForSale = true;
             }
             Console.WriteLine($"New Price:{this.pcPrice}");
             return this.pcPrice;
