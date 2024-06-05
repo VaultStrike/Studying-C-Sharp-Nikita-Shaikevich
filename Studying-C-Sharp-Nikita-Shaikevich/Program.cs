@@ -1,10 +1,11 @@
 ﻿using Studying_C_Sharp_Nikita_Shaikevich;
-using Studying_C_Sharp_Nikita_Shaikevich.Conflicts;
 public class Program
 {
-    private static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
-        ConflitFileTest.Conflict2();
+        //runObjects.DemoPcRun();
+
+        ThisObjects.Demo();
+
     }
 }
