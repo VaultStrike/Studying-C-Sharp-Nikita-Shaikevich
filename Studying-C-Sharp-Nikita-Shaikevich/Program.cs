@@ -1,5 +1,5 @@
-﻿using Studying_C_Sharp_Nikita_Shaikevich.Conflicts;
-using Studying_C_Sharp_Nikita_Shaikevich;
+﻿using Studying_C_Sharp_Nikita_Shaikevich;
+using Studying_C_Sharp_Nikita_Shaikevich.Conflicts;
 public class Program
 {
     private static void Main(string[] args)
